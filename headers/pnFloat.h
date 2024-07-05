@@ -11,5 +11,5 @@
 #include <stdnoreturn.h>
 #include <standards.h>
 
-
-#define MaxScreenHeightPixels 8640
+// Custom
+#include "commonInt.c"
